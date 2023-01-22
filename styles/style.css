@@ -1,0 +1,18 @@
+
+/* Set the size of the div element that contains the map */
+#map {
+    /*height: 98vh; /* The height is 400 pixels */
+    width: 100%; /* The width is the width of the web page */
+}
+  
+.leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+    border: 0px !important;
+}
+body {
+    margin: 0;
+  }
+  html, body, #map {
+    height: 100%;
+  }
+
+ 
